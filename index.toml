@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "index.html"
+hash = "b739da3ed2d17e1de92b7a4be0d322d7ea20175f6dc337498aa4c4fa5504dea9"
+
+[[files]]
 file = "mods/antique-trading-ship.pw.toml"
 hash = "cb4a414f163dc780fe0b8dc3b3938739749a3d83bccd6fc6d3dc8b0b3f0c150b"
 metafile = true
