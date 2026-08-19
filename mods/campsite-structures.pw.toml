@@ -6,7 +6,7 @@ side = "both"
 hash-format = "sha1"
 hash = "71042123ef3cdc94cd4310b96df70c225ad18c32"
 mode = "url"
-url = "https://raw.githubusercontent.com/shaunakgh/mc-modlist/main/mods/campsite_structures-1.20.1-FORGE-1.0.4.jar"
+url = "https://github.com/shaunakgh/mc-modlist/raw/refs/heads/main/mods/campsite_structures-1.20.1-FORGE-1.0.4.jar"
 
 [update]
 [update.curseforge]

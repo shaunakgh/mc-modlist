@@ -6,7 +6,7 @@ side = "both"
 hash-format = "sha1"
 hash = "b714de4cdc9a023debdb905584ebd76dfe49e403"
 mode = "url"
-url = "https://raw.githubusercontent.com/shaunakgh/mc-modlist/main/mods/ore-variants-1.0-forge-1.20.1.jar"
+url = "https://github.com/shaunakgh/mc-modlist/raw/refs/heads/main/mods/ore-variants-1.0-forge-1.20.1.jar"
 
 [update]
 [update.curseforge]
