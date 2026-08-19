@@ -5,7 +5,8 @@ side = "both"
 [download]
 hash-format = "sha1"
 hash = "a8b578b4c2266790efe1261c6c08a26ad63aec9a"
-mode = "metadata:curseforge"
+mode = "url"
+url = "https://raw.githubusercontent.com/shaunakgh/mc-modlist/main/mods/cl0uds_paxels-1.0.0-forge-1.20.1.jar"
 
 [update]
 [update.curseforge]

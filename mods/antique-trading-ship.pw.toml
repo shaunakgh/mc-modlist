@@ -5,7 +5,8 @@ side = "both"
 [download]
 hash-format = "sha1"
 hash = "6ff2bdd6c080a9467a85c4a23ad635867c3a4828"
-mode = "metadata:curseforge"
+mode = "url"
+url = "https://raw.githubusercontent.com/shaunakgh/mc-modlist/main/mods/antiquetradingship-1.4.0-forge-1.20.1.jar"
 
 [update]
 [update.curseforge]

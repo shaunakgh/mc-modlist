@@ -6,7 +6,7 @@ hash = "b739da3ed2d17e1de92b7a4be0d322d7ea20175f6dc337498aa4c4fa5504dea9"
 
 [[files]]
 file = "mods/antique-trading-ship.pw.toml"
-hash = "cb4a414f163dc780fe0b8dc3b3938739749a3d83bccd6fc6d3dc8b0b3f0c150b"
+hash = "28cdb4fa8deb08ad97c0ddb820fae28e7a9c78c56c50b3c648b9217476c0952d"
 metafile = true
 
 [[files]]
@@ -26,7 +26,7 @@ metafile = true
 
 [[files]]
 file = "mods/campsite-structures.pw.toml"
-hash = "6c62e4a74289be9ff86d883b7bd8675412d96a2d579ee30d869143a6d09bf0fb"
+hash = "73bf950763a64f21a1540a9d47a07acfd091c71ac464306bec00987deaf5ec70"
 metafile = true
 
 [[files]]
@@ -36,7 +36,7 @@ metafile = true
 
 [[files]]
 file = "mods/cl0uds-paxels.pw.toml"
-hash = "f15db0b2f03d0a20ef00450777fbedc2d9af04f62f7c03165aeaad47b42096e3"
+hash = "9faebd370d4a223fc48beea6c7dd20272bce72d07b51e95cec4b40ef4d3d0b39"
 metafile = true
 
 [[files]]
@@ -111,7 +111,7 @@ metafile = true
 
 [[files]]
 file = "mods/ore-variants.pw.toml"
-hash = "ac6d566c860a3831d4c794ad4e4b645010e9c47cd510c7d5b5d1fb186b051d56"
+hash = "431950fc30c8709ad851bb735aba9e4cca9caa7c7de4151f1602cd5abdbe2ef9"
 metafile = true
 
 [[files]]
